@@ -21,12 +21,12 @@
 </dir>
 
 <dir>
-  <title>Dave's list</title>
+  <title>n list</title>
   <trakt>https://api.trakt.tv/users/morlok/lists/n/</trakt>
 </dir>
 
 <dir>
-  <title>Dave's list</title>
+  <title>new list</title>
   <trakt>https://api.trakt.tv/users/morlok/lists/new shows/</trakt>
 </dir>
 
