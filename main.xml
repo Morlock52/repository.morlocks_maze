@@ -1,7 +1,7 @@
 <xml>
   <dir>
     <title>Movies</title>
-    <link>file://movies.xml</link>
+    <link>https://raw.githubusercontent.com/Morlock52/repository.morlocks_maze/master/Movies.xml</link>
   </dir>
 
   <dir>
