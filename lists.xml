@@ -1,11 +1,4 @@
-<dir>
-  <title>Dave's list</title>
-  <trakt>https://api.trakt.tv/users/morlok/lists/dave/</trakt>
-</dir>
-<dir>
-  <title>My lists</title>
-  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
-</dir>
+
 
 <dir>
   <title>My Liked Lists</title>
@@ -23,14 +16,10 @@
 </dir>
 
 <dir>
-  <title>TMDB List: Animal Kingdom</title>
-  <tmdb>list/13488</tmdb>
+  <title>Dave's list</title>
+  <trakt>https://api.trakt.tv/users/morlok/lists/dave/</trakt>
 </dir>
 
-<dir>
-  <title>Shan Animated</title>
-  <tmdb>list/32947</tmdb>
-</dir>
 
 <dir>
   <title>Car Shows TRAKT</title>
