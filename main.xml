@@ -5,8 +5,13 @@
   </dir>
 
   <dir>
-    <title>TV</title>
-    <link>file://tv.xml</link>
+    <title>Concerts</title>
+    <link>https://raw.githubusercontent.com/Morlock52/repository.morlocks_maze/master/concerts.xml</link>
+  </dir>
+
+  dir>
+    <title>TV networks</title>
+    <link>https://raw.githubusercontent.com/Morlock52/repository.morlocks_maze/master/networks.xml</link>
   </dir>
 
   <dir>
@@ -16,12 +21,12 @@
 
   <dir>
     <title>Actors</title>
-    <link>file://actors.xml</link>
+    <link>https://raw.githubusercontent.com/Morlock52/repository.morlocks_maze/master/actors.xml</link>
   </dir>
 
   <dir>
     <title>Music</title>
-    <link>file://music.xml</link>
+    <link>https://raw.githubusercontent.com/Morlock52/repository.morlocks_maze/master/music.xml</link>
   </dir>
 
   <dir>
